@@ -34,3 +34,9 @@ http://localhost:8001/bar
 ```sh
 curl --request GET 'http://localhost:8001/foo'
 ```
+
+- Stop the process
+
+```sh
+killall -9 ./multiport
+```
