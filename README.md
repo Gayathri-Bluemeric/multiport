@@ -20,3 +20,17 @@ Run application through binary
 ```sh
 ./multiport
 ```
+
+## How to access the application 
+
+- Browser or REST client
+
+```sh
+http://localhost:8001/foo
+http://localhost:8001/bar
+```
+- cURL
+
+```sh
+curl --request GET 'http://localhost:8001/foo'
+```
