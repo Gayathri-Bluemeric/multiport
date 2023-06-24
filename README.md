@@ -1,8 +1,22 @@
 # MULTIPORT APPLICATION DEMO
-A simple Golang to send hello message to a user.
+A simple Golang Multiport application.
 
-## How to Run Application
+## Simple Command
+
+Run golang application [Development]
+
+```sh
+go run multiport.go
+```
+
+Build binary
 
 ```sh
 go build multiport.go
+```
+
+Run application through binary 
+
+```sh
+./multiport
 ```
