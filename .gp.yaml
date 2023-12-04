@@ -1,4 +1,4 @@
-name: test runbookhub
+name: Sample - 2 runbookhub
 desc: Sample runbook hub
 runbooks:
 - name: Pod-Pending
